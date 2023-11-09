@@ -1,7 +1,7 @@
 Terms and Privacy Policy  
 ========================
 
-Last updated: November 04, 2023
+Last updated: November 04, 2023 
 
 This Terms and Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service.
