@@ -83,7 +83,6 @@ page.
 
 Protection of Children's Privacy
 --------------------------------
-
 Our App is not aimed at people who are under the age of eighteen(18) years ('Children'). If you are the parent/legal guardian of a Child who you believe has provided us with his/her personally identifiable information, please contact us immediately and we will take steps to remove such personally identifiable information from our database and servers immediately. We don not and never will knowingly collect any personal information from children
 
 Contact Us  
