@@ -27,7 +27,7 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Offline Password Generator (the "software"), the software program provided by the
+  * Application refers to OneTap Password Generator (the "software"), the software program provided by the
     author.
 
   * Device means any device that can access the Service such as a computer, a
@@ -80,6 +80,11 @@ of this Privacy Policy.
 You are advised to review this Privacy Policy periodically for any changes.
 Changes to this Privacy Policy are effective when they are posted on this
 page.
+
+Protection of Children's Privacy
+--------------------------------
+
+Our App is not aimed at people who are under the age of eighteen(18) years ('Children'). If you are the parent/legal guardian of a Child who you believe has provided us with his/her personally identifiable information, please contact us immediately and we will take steps to remove such personally identifiable information from our database and servers immediately. We don not and never will knowingly collect any personal information from children
 
 Contact Us  
 ----------
